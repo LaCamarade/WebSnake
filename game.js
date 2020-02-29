@@ -1,0 +1,1 @@
+let snake = 1;
